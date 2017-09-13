@@ -23,4 +23,13 @@ Hello Guys ! Below are the details for getting started with VR . In General , it
 6. AR Core : https://developers.google.com/ar/ ( You Should have Nexus Phone to see Output )
 7. Aframe with AR : https://github.com/jeromeetienne/AR.js/tree/master/aframe 
 
+# If you are damn intrested look for the following persons / Companies in twitter 
 
+1. Mike Booth , Facebook VR Spaces
+2. Rachel Franklin , Facebook
+3. Deb Liu , Facebook AR
+4. Mike Buerli, ARKit Engineer Apple
+5. Stefan Misslinger, ARKit Engineer Apple
+6. Clayton Wilinkson , Google VR
+7. Mozilla
+8. Microsoft Mixed Reality
